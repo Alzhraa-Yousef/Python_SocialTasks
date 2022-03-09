@@ -1,3 +1,3 @@
-# Social-Tasks-python-
-Python tasks for section of social information systems // 
+Python Social Tasks
 Alzhraa Yousef Mohammed 
+IS 2017 
